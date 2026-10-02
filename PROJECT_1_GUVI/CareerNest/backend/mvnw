@@ -1,0 +1,3 @@
+#!/bin/sh
+# Minimal Maven wrapper launcher. Install Maven 3.9+ or use `mvn`.
+exec mvn "$@"
